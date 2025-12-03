@@ -1,0 +1,6 @@
+transformers
+numpy
+datasets
+evaluate
+protobuf
+sentencepiece

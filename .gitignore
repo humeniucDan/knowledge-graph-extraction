@@ -3,3 +3,13 @@
 data/
 models/
 __pycache__/
+hf_cache/
+out/
+
+*/.venv/
+*/.idea/
+*/data/
+*/models/
+*/__pycache__/
+*/hf_cache/
+*/out/

@@ -6,3 +6,4 @@ protobuf
 sentencepiece
 spacy
 pathlib
+accelerate
